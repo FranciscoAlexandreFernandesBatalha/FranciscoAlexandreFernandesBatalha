@@ -1,7 +1,7 @@
 <div>
-<img align=left height="100em" src="https://github-readme-stats.vercel.app/api?username=FranciscoBatalha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)"/>
+<img align=left height="140em" src="https://github-readme-stats.vercel.app/api?username=FranciscoBatalha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)"/>
 </div>
 <div>
-<img align=right height="100cem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoBatalha&layout=compact&langs_count=16&theme=dracula"/>
+<img align=right height="140cem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoBatalha&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
